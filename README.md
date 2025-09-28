@@ -24,8 +24,8 @@ Here are some ideas to get you started:
       <td width="65%">
         <h2>About Me</h2>
         <ul align="left">
-          <li>🔭 I'm currently enjoy exploring new stuff</li>
-          <li>📖 I’m currently learning React.js</li>
+          <li>☕ A barista who enjoy doing coding and learning something new </li>
+          <li>📖 I’m currently practicing React.js</li>
           <li>🎧 I love ACG kinda things</li>
         </ul>
         <p align="left">
