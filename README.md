@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <table>
     <tr>
       <td width="35%">
-        <img src="https://github.com/user-attachments/assets/252f9ecb-0b90-4ff9-9832-e5f3ad497c39" width="200" height="180" alt="Meow"/>
+        <img src="https://github.com/user-attachments/assets/252f9ecb-0b90-4ff9-9832-e5f3ad497c39" width="195" height="175" alt="Meow"/>
       </td>
       <td width="65%">
         <h2>About Me</h2>
