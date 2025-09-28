@@ -1,4 +1,5 @@
 ## Hi there 👋🏻
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/0a83e4cd-8403-4f60-afd0-a859af29d231" />
 
 <!--
 **lululuqman/lululuqman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
