@@ -1,8 +1,8 @@
-![sakura-cat](https://github.com/user-attachments/assets/7aade226-2cf0-4aae-b35a-d17fd1a634c5)<img width="400" height="300" alt="github-header-banner" src="https://github.com/user-attachments/assets/b8c94c91-86fc-48b3-9e1e-b69678a99e57" />
-
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/f81762f3-8ec7-4f7d-8c87-a064cb8d3c11" />
 <!--**lululuqman/lululuqman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
