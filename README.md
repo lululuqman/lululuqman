@@ -29,7 +29,7 @@ Here are some ideas to get you started:
           <li>🎧 I love ACG kinda things</li>
         </ul>
         <p align="left">
-          I will post my personal projects here from time to time 🚀
+          I will post my personal projects here for the time being 🚀
         </p>
       </td>
     </tr>
