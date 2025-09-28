@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <div align="left">
   <table>
     <tr>
-      <td width="60%">
-        <img src="https://github.com/user-attachments/assets/252f9ecb-0b90-4ff9-9832-e5f3ad497c39" width="30%" alt="Meow" />
+      <td width="35%">
+        <img src="https://github.com/user-attachments/assets/252f9ecb-0b90-4ff9-9832-e5f3ad497c39" width="50%" alt="Meow" />
       </td>
-      <td width="40%">
+      <td width="65%">
         <h2>About Me</h2>
         <ul align="left">
           <li>🔭 I'm currently enjoy exploring new stuff</li>
