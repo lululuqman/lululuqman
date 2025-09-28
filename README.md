@@ -14,15 +14,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
-  <img src="![sakura-cat](https://github.com/user-attachments/assets/fb54af76-2035-4e42-8b26-3da7fe337c1c)
-" width="200" align="left"/>
-  <ul>
-    <li>🔭 I'm currently enjoying exploring new stuff</li>
-    <li>📖 I’m currently learning React.js</li>
-    <li>🎧 I love ACG kinda things</li>
-  </ul>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="![sakura-cat](https://github.com/user-attachments/assets/98cbba15-ad37-40d4-8f03-482202df0e26)
+" width="300"/>
+    </td>
+    <td>
+      <ul>
+        <li>🔭 I'm currently enjoying exploring new stuff</li>
+        <li>📖 I’m currently learning React.js</li>
+        <li>🎧 I love ACG kinda things</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 
