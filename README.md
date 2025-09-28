@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <div align="left">
   <table>
     <tr>
-      <td width="35%">
+      <td width="20%">
         <img src="https://github.com/user-attachments/assets/252f9ecb-0b90-4ff9-9832-e5f3ad497c39" width="195" height="175" alt="Meow"/>
       </td>
-      <td width="65%">
+      <td width="80%">
         <h2>About Me</h2>
         <ul align="left">
           <li>☕ A barista who enjoy doing coding and learning something new </li>
