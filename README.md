@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <div align="left">
-  <table>
+  <table style="width: 100%; max-width: 2125px;">
     <tr>
-      <td width="20%">
+      <td width="12%">
         <img src="https://github.com/user-attachments/assets/252f9ecb-0b90-4ff9-9832-e5f3ad497c39" width="195" height="175" alt="Meow"/>
       </td>
-      <td width="80%">
+      <td width="88%">
         <h2>About Me</h2>
         <ul align="left">
           <li>🌠 A person who enjoy doing coding and learning something new </li>
-          <li>📖 I’m currently practicing React.js</li>
+          <li>📖 I'm currently practicing React.js</li>
           <li>🎧 I love ACG kinda things</li>
         </ul>
         <p align="left">
