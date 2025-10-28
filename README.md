@@ -20,13 +20,14 @@
   </table>
 </div>
 
+# 👾 Pac-Man Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lululuqman/lululuqman/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lululuqman/lululuqman/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lululuqman/lululuqman/output/pacman-contribution-graph.svg">
 </picture>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=lululuqman&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 <img src="https://github.com/user-attachments/assets/04977826-61b0-47c2-ac1e-642de8fe21c4" width="160" height="195" alt="tenor gif">
 ![](https://nirzak-streak-stats.vercel.app/?user=lululuqman&theme=tokyonight&hide_border=false)
