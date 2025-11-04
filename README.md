@@ -22,16 +22,19 @@
 
 # 💻 Tech Stack
 Version Control </br>
-<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/4188e37e-fa36-4fbe-873d-dfafc4ad7a7b" />
-<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/50d2223c-0b18-42cc-9c56-b29cdff1a29e" /></br>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4188e37e-fa36-4fbe-873d-dfafc4ad7a7b" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/50d2223c-0b18-42cc-9c56-b29cdff1a29e" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/ea08171c-c8e8-488e-8edb-fbe8f6949530" /></br>
 Frontend </br>
-<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/7ed460e8-34e9-4de4-b39b-b36d945d9fb1" />
-<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/7e7ca1af-8551-455c-ad34-785d8a1deda6" /></br>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7ed460e8-34e9-4de4-b39b-b36d945d9fb1" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7e7ca1af-8551-455c-ad34-785d8a1deda6" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ae54c738-379b-4943-a429-bbdbeb6fca23" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1e060bb2-1454-4aef-858b-e1fd64516bac" /></br>
 Backend </br>
-<img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/84de0d27-b5bd-46c5-a62d-e347b0700328" />
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/9af1e00f-e8c3-47d8-8b5e-54ee09ad3866" /> </br>
-Programming Language </br>
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/84305dcd-61a6-42db-bc84-537ad36f42f9" /> </br>
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/84de0d27-b5bd-46c5-a62d-e347b0700328" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/9af1e00f-e8c3-47d8-8b5e-54ee09ad3866" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/8d4ca5be-cb1e-4c5f-b8bf-821e3c611652" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5c362be7-1117-46a5-b1b4-8c08cf3ce700" /></br>
 
 
 # 👾 Pac-Man Graph
