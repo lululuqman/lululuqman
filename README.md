@@ -34,7 +34,9 @@ Backend </br>
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/84de0d27-b5bd-46c5-a62d-e347b0700328" />
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/9af1e00f-e8c3-47d8-8b5e-54ee09ad3866" />
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/8d4ca5be-cb1e-4c5f-b8bf-821e3c611652" />
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5c362be7-1117-46a5-b1b4-8c08cf3ce700" /></br>
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5c362be7-1117-46a5-b1b4-8c08cf3ce700" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/b09ce561-78b8-47d3-80ba-66dba6a90686" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/80c41b7a-13f7-4a5f-bb23-83a1d15fb6eb" /></br>
 
 
 # 👾 Pac-Man Graph
