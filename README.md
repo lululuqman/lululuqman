@@ -1,6 +1,6 @@
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/f81762f3-8ec7-4f7d-8c87-a064cb8d3c11" />
 <div align="left">
-  <table style="width: 100%; max-width: 2125px;">
+  <table style="width: 100%; max-width: 3000px;">
     <tr>
       <td width="12%">
         <img src="https://github.com/user-attachments/assets/252f9ecb-0b90-4ff9-9832-e5f3ad497c39" width="195" height="175" alt="Meow"/>
