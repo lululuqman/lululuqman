@@ -28,7 +28,7 @@
 </picture>
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=lululuqman&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-<img src="https://github.com/user-attachments/assets/04977826-61b0-47c2-ac1e-642de8fe21c4" width="160" height="195" alt="tenor gif">
 ![](https://nirzak-streak-stats.vercel.app/?user=lululuqman&theme=tokyonight&hide_border=false)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lululuqman&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="355" alt="Top Languages"/>
+<img src="https://github.com/user-attachments/assets/516bd14d-daf2-47a2-8e10-975bc9c770b6" width="340" alt="kaoru-hana-wa-rin-to-saku"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lululuqman&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="350" alt="Top Languages"/>
+<img src="https://github.com/user-attachments/assets/04977826-61b0-47c2-ac1e-642de8fe21c4" width="155" height="210" alt="tenor gif">
