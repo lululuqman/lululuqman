@@ -49,5 +49,5 @@ Backend </br>
 # 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=lululuqman&theme=tokyonight&hide_border=false)
 <img src="https://github.com/user-attachments/assets/04977826-61b0-47c2-ac1e-642de8fe21c4" width="160" height="220" alt="tenor gif"> </br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lululuqman&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="330" alt="Top Languages"/>
-<img src="https://github.com/user-attachments/assets/516bd14d-daf2-47a2-8e10-975bc9c770b6" width="320" alt="kaoru-hana-wa-rin-to-saku"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lululuqman&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="333" alt="Top Languages"/>
+<img src="https://github.com/user-attachments/assets/516bd14d-daf2-47a2-8e10-975bc9c770b6" width="323" alt="kaoru-hana-wa-rin-to-saku"/>
