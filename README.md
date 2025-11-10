@@ -8,8 +8,8 @@
       <td width="88%">
         <h2>About Me</h2>
         <ul align="left">
-          <li>🌠 A person who enjoy doing coding and learning something new </li>
-          <li>📖 I'm currently exploring RAG and LLM</li>
+          <li>🌠 A person who enjoy doing coding, experimenting failure and learning something new daily </li>
+          <li>📖 I'm currently exploring more about RAG, A2A, Generative AI, MCP and LLM</li>
           <li>🎧 I love ACG kinda things</li>
         </ul>
         <p align="left">
