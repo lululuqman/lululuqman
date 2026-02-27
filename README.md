@@ -3,18 +3,15 @@
   <table style="width: 100%; max-width: 3000px;">
     <tr>
       <td width="12%">
-        <img src="https://github.com/user-attachments/assets/252f9ecb-0b90-4ff9-9832-e5f3ad497c39" width="195" height="175" alt="Meow"/>
+        <img src="https://github.com/user-attachments/assets/ed98217e-96b5-4166-a322-be58cfc6a43c" width="195" height="175" alt="neos"/>
       </td>
       <td width="88%">
-        <h2>About Me</h2>
-        <ul align="left">
-          <li>🌠 A person who enjoy doing coding, experimenting failure and learning something new </li>
-          <li>📖 I'm currently exploring more about RAG, A2A, Generative AI, MCP and LLM</li>
-          <li>🎧 I love ACG kinda things</li>
-        </ul>
-        <p align="left">
-          I will post my personal projects here for the time being 🚀
-        </p>
+        <h2>💻Tech Stack</h2>
+        <img src="https://skills.syvixor.com/api/icons?perline=14&i=git,huggingface,googlecolaboratory,langchain,bun,reactjs,nextjs,tailwindcss,typescript,javascript,python,cpp,supabase,postgresql" alt="Skills" /></br>
+    <h2>💫 Skill Acquisition Phase</h2>
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+        <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+        <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" alt="Aseprite"/>
       </td>
     </tr>
   </table>
